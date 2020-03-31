@@ -1,0 +1,7 @@
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\ProjektZaliczeniowy.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\ProjektZaliczeniowy.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\ProjektZaliczeniowy.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\ProjektZaliczeniowy.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\ProjektZaliczeniowy.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\ProjektZaliczeniowy.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\ProjektZaliczeniowy.pdb

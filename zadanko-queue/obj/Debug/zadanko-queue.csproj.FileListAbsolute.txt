@@ -1,0 +1,7 @@
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-queue\bin\Debug\zadanko-queue.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-queue\bin\Debug\zadanko-queue.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-queue\bin\Debug\zadanko-queue.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-queue\obj\Debug\zadanko-queue.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-queue\obj\Debug\zadanko-queue.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-queue\obj\Debug\zadanko-queue.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-queue\obj\Debug\zadanko-queue.pdb

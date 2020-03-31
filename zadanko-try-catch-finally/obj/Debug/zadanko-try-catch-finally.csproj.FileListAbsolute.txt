@@ -1,0 +1,14 @@
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\ProjektZaliczeniowy.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\ProjektZaliczeniowy.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\ProjektZaliczeniowy.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\zadanko-try-catch-finally.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\zadanko-try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\ProjektZaliczeniowy.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\ProjektZaliczeniowy.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\ProjektZaliczeniowy\bin\Debug\ProjektZaliczeniowy.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\ProjektZaliczeniowy\bin\Debug\ProjektZaliczeniowy.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\ProjektZaliczeniowy\bin\Debug\ProjektZaliczeniowy.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\ProjektZaliczeniowy\obj\Debug\zadanko-try-catch-finally.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\ProjektZaliczeniowy\obj\Debug\zadanko-try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\ProjektZaliczeniowy\obj\Debug\ProjektZaliczeniowy.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\ProjektZaliczeniowy\obj\Debug\ProjektZaliczeniowy.pdb

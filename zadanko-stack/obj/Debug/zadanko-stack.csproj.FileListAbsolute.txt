@@ -1,0 +1,14 @@
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-stack\bin\Debug\zadanko-stack.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-stack\bin\Debug\zadanko-stack.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-stack\bin\Debug\zadanko-stack.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-stack\obj\Debug\zadanko-stack.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-stack\obj\Debug\zadanko-stack.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-stack\obj\Debug\zadanko-stack.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-stack\obj\Debug\zadanko-stack.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-stack\bin\Debug\zadanko-stack.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-stack\bin\Debug\zadanko-stack.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-stack\bin\Debug\zadanko-stack.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-stack\obj\Debug\zadanko-stack.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-stack\obj\Debug\zadanko-stack.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-stack\obj\Debug\zadanko-stack.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-stack\obj\Debug\zadanko-stack.pdb

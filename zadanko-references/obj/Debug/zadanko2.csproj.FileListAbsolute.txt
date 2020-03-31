@@ -1,0 +1,7 @@
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko2\bin\Debug\zadanko2.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko2\bin\Debug\zadanko2.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko2\bin\Debug\zadanko2.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko2\obj\Debug\zadanko2.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko2\obj\Debug\zadanko2.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko2\obj\Debug\zadanko2.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko2\obj\Debug\zadanko2.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko4\bin\Debug\zadanko4.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko4\bin\Debug\zadanko4.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko4\bin\Debug\zadanko4.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko4\obj\Debug\zadanko-list-t.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko4\obj\Debug\zadanko4.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko4\obj\Debug\zadanko4.pdb

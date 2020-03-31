@@ -1,0 +1,14 @@
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-dictionary\bin\Debug\zadanko-dictionary.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-dictionary\bin\Debug\zadanko-dictionary.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-dictionary\bin\Debug\zadanko-dictionary.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-dictionary\obj\Debug\zadanko-dictionary.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-dictionary\obj\Debug\zadanko-dictionary.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-dictionary\obj\Debug\zadanko-dictionary.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\zadanko-dictionary\obj\Debug\zadanko-dictionary.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-dictionary\bin\Debug\zadanko-dictionary.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-dictionary\bin\Debug\zadanko-dictionary.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-dictionary\bin\Debug\zadanko-dictionary.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-dictionary\obj\Debug\zadanko-dictionary.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-dictionary\obj\Debug\zadanko-dictionary.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-dictionary\obj\Debug\zadanko-dictionary.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-dictionary\obj\Debug\zadanko-dictionary.pdb
