@@ -1,0 +1,14 @@
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko3\bin\Debug\zadanko3.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko3\bin\Debug\zadanko3.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko3\bin\Debug\zadanko3.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko3\obj\Debug\zadanko-classes-interfaces.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko3\obj\Debug\zadanko-classes-interfaces.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko3\obj\Debug\zadanko3.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko3\obj\Debug\zadanko3.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-classes-interfaces\bin\Debug\zadanko3.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-classes-interfaces\bin\Debug\zadanko3.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-classes-interfaces\bin\Debug\zadanko3.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-classes-interfaces\obj\Debug\zadanko-classes-interfaces.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-classes-interfaces\obj\Debug\zadanko-classes-interfaces.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-classes-interfaces\obj\Debug\zadanko3.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-classes-interfaces\obj\Debug\zadanko3.pdb

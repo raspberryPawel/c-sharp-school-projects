@@ -1,0 +1,7 @@
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-references\bin\Debug\zadanko2.exe.config
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-references\bin\Debug\zadanko2.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-references\bin\Debug\zadanko2.pdb
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-references\obj\Debug\zadanko-references.csprojAssemblyReference.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-references\obj\Debug\zadanko-references.csproj.CoreCompileInputs.cache
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-references\obj\Debug\zadanko2.exe
+C:\Users\nieza\source\repos\ProjektZaliczeniowy\c-sharp-school-projects\zadanko-references\obj\Debug\zadanko2.pdb
