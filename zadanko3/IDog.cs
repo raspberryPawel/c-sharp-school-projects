@@ -1,12 +1,8 @@
 ﻿namespace zadanko3
 {
-    internal interface IDog<T>
+    interface IDog
     {
-        string Name { get; }
+        string Name { get; set; }
         int Age { get; set; }
-
-        string getName();
-        int getAge();
-        int setAge(int age);
     }
 }

@@ -50,7 +50,7 @@ namespace zadanko3
                             Console.WriteLine("Wpisz numer psa którego wiek chcesz edytować: ");
                             for (int i = 0; i < dogsLength; i++)
                             {
-                                Console.WriteLine($"{i}. {dogsArray[i].getName()}, {dogsArray[i].getAge()}");
+                                Console.WriteLine($"{i}. {dogsArray[i].Name}, {dogsArray[i].Age}");
                             }
                             buff = Console.ReadLine();
                             Int32.TryParse(buff, out action2);
@@ -59,10 +59,10 @@ namespace zadanko3
                             {
                                 string buffor;
                                 int age;
-                                Console.Write($"Podaj wiek {dogsArray[action2].getName()}:  ");
+                                Console.Write($"Podaj wiek {dogsArray[action2].Name}:  ");
                                 buffor = Console.ReadLine();
                                 Int32.TryParse(buffor, out age);
-                                dogsArray[action2].setAge(age);
+                                dogsArray[action2].Age = age;
                                 ShowDogs(dogsLength, dogsArray, "edytowano");
                             }
                             else { Console.WriteLine("Nie masz takiego psa.. "); }
@@ -90,7 +90,7 @@ namespace zadanko3
 
             for (int i = 0; i < dogsLength; i++)
             {
-                Console.WriteLine($"Imię {i + 1} psa: {dogsArray[i].getName()}, wiek: {dogsArray[i].getAge()}");
+                Console.WriteLine($"Imię {i + 1} psa: {dogsArray[i].Name}, wiek: {dogsArray[i].Age}");
             }
         }
     }
